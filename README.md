@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ednut001/Arch-Md/main/media/arch-md-logo.png" alt="ARCH-MD Logo" width="150" />
+  <img src="https://files.catbox.moe/cd1i9a.jpg" alt="ARCH-MD Logo" width="150" />
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/pyy3ar.jpg" alt="ARCH-MD Preview" width="100%" />
+  <img src="https://files.catbox.moe/7kkzcr.jpg" alt="ARCH-MD Preview" width="100%" />
 </p>
 
 ---
