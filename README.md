@@ -1,4 +1,4 @@
-** Arch md external plugin **
+**Arch md external plugin**
 
 
 > spam tag
